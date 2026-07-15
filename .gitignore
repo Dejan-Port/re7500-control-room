@@ -1,0 +1,13 @@
+# Originalni Jovy proprietary softver — nije naš kod
+Jovy PC Suite/
+Jovy RE-7500 Control Room/
+RE-7500 Control Room/
+*.rar
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Korisnicki profili (runtime podaci, ne deo koda)
+profiles.json
