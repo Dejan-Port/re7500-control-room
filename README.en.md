@@ -61,10 +61,10 @@ GUI window. That's why control is split into two processes:
 ```bash
 git clone https://github.com/Dejan-Port/re7500-control-room.git
 cd re7500-control-room
-pip install pyftdi pyusb matplotlib
 ./pokreni.sh
 ```
 
+On first run the script creates its own `venv` and installs dependencies.
 `pokreni.sh` starts the root daemon (will prompt for sudo/authentication)
 and the GUI as a regular user.
 

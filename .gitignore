@@ -8,6 +8,7 @@ RE-7500 Control Room/
 # Python
 __pycache__/
 *.pyc
+venv/
 
 # Korisnicki profili (runtime podaci, ne deo koda)
 profiles.json

@@ -60,10 +60,10 @@ kontrola podeljena u dva procesa:
 ```bash
 git clone https://github.com/Dejan-Port/re7500-control-room.git
 cd re7500-control-room
-pip install pyftdi pyusb matplotlib
 ./pokreni.sh
 ```
 
+Pri prvom pokretanju skripta sama pravi `venv` i instalira zavisnosti.
 `pokreni.sh` pokreće root daemon (traži sudo/autentifikaciju) i GUI kao
 običnog korisnika.
 
