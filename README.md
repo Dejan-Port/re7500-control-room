@@ -1,3 +1,5 @@
+**Srpski · [English](README.en.md)**
+
 <img width="1920" height="1120" alt="Screenshot from 2026-07-16 01-54-18" src="https://github.com/user-attachments/assets/d3ade380-b8ea-425a-83f8-54f7e1313d08" />
 
 # 🔥 Jovy RE-7500 Control Room — Linux
